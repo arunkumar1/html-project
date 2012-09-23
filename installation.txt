@@ -1,0 +1,8 @@
+1 ) ORACLE XE
+
+Destination Folder: C:\oraclexe\
+Port for 'Oracle Database Listener': 1521
+Port for 'Oracle Services for Microsoft Transaction Server': 2030
+Port for HTTP Listener: 8080
+
+2 )  
